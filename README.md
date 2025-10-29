@@ -7,3 +7,5 @@ To use:
 2. Run CheckedOutFiles.Console.exe
 
 Checked-out files will be listed on the console window.
+
+<img width="1097" height="603" alt="image" src="https://github.com/user-attachments/assets/e2a02d77-8384-4617-9880-f43f2410b644" />
